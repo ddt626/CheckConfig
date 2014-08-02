@@ -1,0 +1,26 @@
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe.config
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Release\CheckConfig.pdb
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.Form1.resources
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.Properties.Resources.resources
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.csproj.GenerateResource.Cache
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.exe
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.pdb
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe.manifest
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Release\CheckConfig.application
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.csprojResolveAssemblyReference.cache
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.exe.manifest
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Release\CheckConfig.application
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe.config
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.exe
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.pdb
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe.manifest
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Release\CheckConfig.application
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Release\CheckConfig.exe
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Release\CheckConfig.pdb
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.Form1.resources
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.Properties.Resources.resources
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.csproj.GenerateResource.Cache
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.exe.manifest
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Release\CheckConfig.application

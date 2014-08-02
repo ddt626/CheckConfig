@@ -1,0 +1,22 @@
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Debug\CheckConfig.exe.config
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Debug\CheckConfig.exe
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\bin\Debug\CheckConfig.pdb
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.csprojResolveAssemblyReference.cache
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.Form1.resources
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.Properties.Resources.resources
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.csproj.GenerateResource.Cache
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.exe
+c:\users\rh34\documents\visual studio 2012\Projects\CheckConfig\CheckConfig\obj\Debug\CheckConfig.pdb
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Debug\CheckConfig.exe.config
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.exe
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.pdb
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Debug\CheckConfig.exe.manifest
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Debug\CheckConfig.application
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Debug\CheckConfig.exe
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\bin\Debug\CheckConfig.pdb
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.csprojResolveAssemblyReference.cache
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.Properties.Resources.resources
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.csproj.GenerateResource.Cache
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.exe.manifest
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.application
+C:\Users\Raymond\Desktop\CheckConfig\CheckConfig\obj\Debug\CheckConfig.CheckConfig.resources
